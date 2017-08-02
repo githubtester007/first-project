@@ -6,8 +6,6 @@
 /build
 /captures
 .externalNativeBuild
-build.gradle
-proguard-rules.pro
 .idea/compiler.xml
 .idea/copyright/
 .idea/gradle.xml
@@ -15,3 +13,4 @@ proguard-rules.pro
 .idea/modules.xml
 .idea/runConfigurations.xml
 .idea/vcs.xml
+.gitignore
