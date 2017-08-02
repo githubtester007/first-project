@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+build.gradle
+proguard-rules.pro
+.idea/compiler.xml
+.idea/copyright/
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
